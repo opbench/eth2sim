@@ -17,3 +17,5 @@ state/
 *.prof
 *.txt
 *.svg
+
+.venv
